@@ -19,6 +19,10 @@
 
 *Keywords (like int, if, return, etc.)
 
-*Operators (like +, -, =, etc.)
+*Operators (like +, -, =, etc.) 
 
-*Identifiers (like variable names: x, myVar, etc.) 
+##Steps
+*step 1: Open Dev C++ . Go to File > New > Source File.Write the code. * Save the file as " lexical_analyzer.c "
+
+*Step 2: Create Input File .Create a text file named " input.txt " in the same directory as your .c file. 
+
